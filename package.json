@@ -1,0 +1,20 @@
+{
+  "name": "websocket-evm-test",
+  "version": "1.0.0",
+  "description": "websocket rpc testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "test",
+    "rpc-test",
+    "spam"
+  ],
+  "author": "avenbreaks",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}
